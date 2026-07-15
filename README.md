@@ -41,12 +41,12 @@ class SuprithGanapa:
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suprithganapa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprithganapa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suprithganapa&theme=radical&hide_border=true&background=0d0d0d&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&dates=888888" />
 </p>
 
+<!-- Animated contribution snake. Needs the snake.yml GitHub Action (see setup instructions) to render. -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suprithganapa&theme=radical&hide_border=true&background=0d0d0d&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&dates=888888" />
+  <img src="https://raw.githubusercontent.com/suprithganapa/suprithganapa/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 </p>
 
 <!-- ===== NEON FOOTER LINE ===== -->
