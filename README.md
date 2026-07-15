@@ -24,7 +24,7 @@
   <a href="mailto:suprithgb2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0d0d0d&labelColor=0d0d0d" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">
+  <a href="https://www.linkedin.com/in/suprith-ganapa-346618293/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5FF&color=0d0d0d&labelColor=0d0d0d" />
   </a>
   <a href="https://github.com/suprithganapa">
