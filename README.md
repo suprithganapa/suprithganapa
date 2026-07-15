@@ -26,17 +26,13 @@ class SuprithGanapa:
         return "open to building something ambitious. let's talk."
 ```
 
-<!-- ===== NEON LINE ===== -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 ## Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,tensorflow,opencv,sklearn,git,linux&theme=dark" />
 </p>
 
-<!-- ===== NEON LINE ===== -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 ## GitHub Stats
 
